@@ -1,0 +1,15 @@
+body{
+    background-color: #414141;
+    color: aliceblue;
+}
+#insert{
+    align-items: flex-end;
+    text-align: center;
+}
+.color{
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    border: 5px;
+    border-color: black;
+}
